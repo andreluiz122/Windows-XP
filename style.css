@@ -1,0 +1,44 @@
+:root{
+    scroll-behavior: smooth;
+}
+.topo {
+    text-align: center;
+    background-color: chartreuse;
+}
+
+
+.menu {
+    text-align: center;
+    
+}
+
+.body {
+    tex;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+    padding: 0;
+    background-color: antiquewhite;
+}
+.a {
+    padding: 10px;
+}
+
+.div {
+    background-color: aqua;
+    text-align: center;
+    border: 2px solid rgb(179, 40, 40);
+    padding: 30px;
+}
+
+.funcionalidades {
+    background-color: aqua;
+
+
+}
+.atualizacoes{
+    background-color: darkcyan;
+    
+}

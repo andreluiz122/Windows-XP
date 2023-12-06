@@ -5,6 +5,8 @@
     text-align:left;
     background-color: #3E4095;
     border: 2px; color: #5BC8AC;
+    padding: 10px ;
+    margin: 10px
 }
 
 
@@ -12,14 +14,14 @@
     text-align: center;
     background-color: rgb(0, 187, 141);
     border: 2px solid rgb(0, 0, 0);
-    padding: 4px;
+    padding: 7px;
     margin: 10px;
 
 }
 
 .imglogo{
     text-align: center;
-    border: 2px solid #000000;
+    border: 2px solid rgba(27, 73, 19, 0.663);
     margin: 10px;
 }
 

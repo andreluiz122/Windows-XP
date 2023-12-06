@@ -3,22 +3,24 @@
 }
 .topo {
     text-align:left;
-    background-color: rgb(123, 255, 0);
-    border: 3px; color: rgb(41, 41, 139);
+    background-color: #3E4095;
+    border: 2px; color: #5BC8AC;
 }
 
 
 .menu {
     text-align: center;
-    background-color: rgb(7, 176, 145);
-    border: 3px solid rgb(0, 0, 0);
+    background-color: rgb(0, 187, 141);
+    border: 2px solid rgb(0, 0, 0);
     padding: 4px;
-    
+    margin: 10px;
+
 }
 
-.imglogo {
-    border: 3px solid rgb(0, 0, 0)
-
+.imglogo{
+    text-align: center;
+    border: 2px solid #000000;
+    margin: 10px;
 }
 
 
@@ -26,28 +28,39 @@
     max-width: 1200px;
     margin: auto;
     padding: 0;
-    background-color: rgb(134, 244, 244);
+    background-color: rgba(173, 231, 163, 0.663);
     border: 3px solid black;
 }
 
 .principal {
-    background-color: rgb(161, 216, 144);
+    background-color: rgb(169, 212, 153);
 }
 
 
 
 .funcionalidades {
-    background-color: aquamarine;
+    background-color: rgb(188, 211, 166);
 
 
 }
 .atualizacoes {
-    background-color: rgb(11, 146, 101);
+    background-color: rgb(52, 192, 145);
 }
    
 .tabela {
     width:100%;
-    border: 3px solid rgb(21, 26, 26);
+    border: 2px solid rgb(0, 0, 0);
     border-collapse: collapse;
 }
+
+ td {
+        padding: 20px;
+        border: 2px solid #000000;
+    }
+
+th {
+    background-color: rgb(202, 215, 190);
+    padding: 20px ;
+}
+
 

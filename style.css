@@ -19,6 +19,14 @@
     margin: 10px;
 
 }
+.menu a{
+    background-color: #e4f00a;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid blue
+    
+}
 
 .imglogo{
     text-align: center;
@@ -28,7 +36,7 @@
 
 
 .container {
-    max-width: 1300px;
+    max-width: 1200px;
     margin: auto;
     padding: 0;
     background-color: rgba(173, 231, 163, 0.663);
